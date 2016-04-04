@@ -1,7 +1,7 @@
 #Usage
 Download the projects as zip.
 Extract the files.
-In android studio select File -> Import-Project and Choose the project from extracted file location.
+In android studio select File -> New -> Import-Project and Choose the project from extracted file location.
 Build and deploy.
 
 #References
