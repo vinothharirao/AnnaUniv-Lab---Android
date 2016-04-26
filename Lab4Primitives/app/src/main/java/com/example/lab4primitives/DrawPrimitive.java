@@ -11,7 +11,6 @@ public class DrawPrimitive extends View {
     
     private Paint paint;
     private String shape;
-    private int width,height,radius;
 
     public DrawPrimitive(Context context,String shape) {
         super(context);
